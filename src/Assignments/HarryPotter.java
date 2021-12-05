@@ -6,14 +6,14 @@ import java.util.Scanner;
 public class HarryPotter {
 
 	public static void main(String[] args) {
-		/*
+		
 		
 		// 1. How many years elapsed between first and last movie of Harry Potter?
 				int firstMovie = 2001;
 				int lastMovie = 2011;
 				int yearsElapsed = lastMovie - firstMovie;
 				System.out.println("1. The number of years elapsed is : " + yearsElapsed + " years");
-				
+		/*		
 		2. Calculate using formula and print answer in years and months. 
 		* Approx years for a movie release = (Last movie Release Year – First Movie Release year) / Total Number of Movies 
 				
