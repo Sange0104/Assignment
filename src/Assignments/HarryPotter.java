@@ -128,7 +128,7 @@ public class HarryPotter {
 				
 		// 7. Create a single for loop to print all the data in the format [Movie Number, Movie name, Year Of Release]
 				
-				System.out.println("7. ForLoop"); // Printing the Pet name
+				System.out.println("7. ForLoop"); 
 				for (int i=0; i < movieNamearray.length; i++) {
 				System.out.println ("The Movie Number, Movie name and Year Of Release at Index "+i+" is : "+ movieNumberarray[i] + ", " +  movieNamearray[i] + ", " + releaseYeararray [i]);
 				}// End of For Loop
