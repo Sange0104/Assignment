@@ -12,7 +12,7 @@ public class HarryPotter {
 				int firstMovie = 2001;
 				int lastMovie = 2011;
 				int yearsElapsed = lastMovie - firstMovie;
-				System.out.println("1. The number of years elapsed is : " + yearsElapsed + " years");
+				System.out.println("The number of years elapsed is : " + yearsElapsed + " years");
 		/*		
 		2. Calculate using formula and print answer in years and months. 
 		* Approx years for a movie release = (Last movie Release Year – First Movie Release year) / Total Number of Movies 
@@ -21,7 +21,7 @@ public class HarryPotter {
 				int diffinReleaseYears = lastMovie - firstMovie ;
 				int movieReleaseinYears = ((diffinReleaseYears*12) / totalNoOfMovies)/12;
 				int movieReleaseinMonths = ((diffinReleaseYears*12) /  totalNoOfMovies)%12;
-				System.out.println("2. Approximate release of movie in years " + movieReleaseinYears +  " Years" );
+				System.out.println("Approximate release of movie in years " + movieReleaseinYears +  " Years" );
 				System.out.println("   Approximate release of movie in months " + movieReleaseinMonths +  " Months" );
 				
 		// 3. Get a number as input from user and print the name of the movie
