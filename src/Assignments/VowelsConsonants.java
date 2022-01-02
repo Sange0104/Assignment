@@ -26,7 +26,7 @@ public class VowelsConsonants {
 			
 		}//end of for loop
 		
-		System.out.println("The word is :" + word);
+		System.out.println("The word entered is :" + word);
 		System.out.println("The number of vowels in the word is : " + v);
 		System.out.println("The number of consonants in the word is : " + c);
 	}
